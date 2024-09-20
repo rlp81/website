@@ -1,4 +1,4 @@
-import '/home/cole/Desktop/Sandbox/JS/nextjs-dashboard/app/ui/global.css';
+import '@/app/ui/global.css';
 import {inter} from './ui/fonts'
 
 export default function RootLayout({
